@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1081103792148",
+    "firebase_url": "https://kipas-otomatis-7d7da-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kipas-otomatis-7d7da",
+    "storage_bucket": "kipas-otomatis-7d7da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081103792148:android:41cbb4740fd2d63935cf01",
+        "android_client_info": {
+          "package_name": "com.example.monitor_suhu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdhoISENe5RLeahW5I5-3XSlX66LOFt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081103792148:android:4f0f3c5db4a60e7935cf01",
+        "android_client_info": {
+          "package_name": "com.kipas_otomatis.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdhoISENe5RLeahW5I5-3XSlX66LOFt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
